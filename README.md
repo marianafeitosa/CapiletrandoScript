@@ -4,9 +4,9 @@ Script em Python para tratar os dados coletados pelo CapiLetrando: remove/anonim
 
 ## Equipe
 
-- Mariana Akemi Arashiro Santos Feitosa
 - Giovana Marsigli Rodrigues
 - Giovanna Aparecida Vivencio Rodrigues
+- Mariana Akemi Arashiro Santos Feitosa
 
 *Fatec Zona Leste — Análise e Desenvolvimento de Sistemas*
 

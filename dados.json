@@ -1,0 +1,112 @@
+[
+  {
+    "nome": "Maria Eduarda Silva",
+    "email": "maria.silva.responsavel@gmail.com",
+    "telefone": "(11) 98765-4321",
+    "cpf": "123.456.789-00",
+    "data_nascimento": "2019-03-15",
+    "atividade_concluida": "sim",
+    "pontuacao": 85,
+    "conquistas": 3,
+    "tempo_uso_minutos": 22
+  },
+  {
+    "nome": "João Pedro Souza",
+    "email": "joaopedro.pai@hotmail.com",
+    "telefone": "(11) 91234-5678",
+    "cpf": "987.654.321-00",
+    "data_nascimento": "2018-07-02",
+    "atividade_concluida": "nao",
+    "pontuacao": 40,
+    "conquistas": 1,
+    "tempo_uso_minutos": 8
+  },
+  {
+    "nome": "Ana Clara Ferreira",
+    "email": "anaclara.mae@yahoo.com",
+    "telefone": "(11) 99876-5432",
+    "cpf": "456.789.123-00",
+    "data_nascimento": "2020-01-20",
+    "atividade_concluida": "sim",
+    "pontuacao": 92,
+    "conquistas": 4,
+    "tempo_uso_minutos": 30
+  },
+  {
+    "nome": "Pedro Henrique Costa",
+    "email": "pedro.responsavel@gmail.com",
+    "telefone": "(11) 93456-7890",
+    "cpf": "321.654.987-00",
+    "data_nascimento": "2017-11-05",
+    "atividade_concluida": "sim",
+    "pontuacao": 78,
+    "conquistas": 2,
+    "tempo_uso_minutos": 15
+  },
+  {
+    "nome": "Sofia Almeida",
+    "email": "sofia.mae@outlook.com",
+    "telefone": "(11) 92345-6789",
+    "cpf": "654.321.987-00",
+    "data_nascimento": "2019-09-30",
+    "atividade_concluida": "nao",
+    "pontuacao": 55,
+    "conquistas": 1,
+    "tempo_uso_minutos": 12
+  },
+  {
+    "nome": "Lucas Gabriel Oliveira",
+    "email": "lucas.pai@gmail.com",
+    "telefone": "(11) 94567-8901",
+    "cpf": "789.123.456-00",
+    "data_nascimento": "2018-04-18",
+    "atividade_concluida": "sim",
+    "pontuacao": 88,
+    "conquistas": 3,
+    "tempo_uso_minutos": 25
+  },
+  {
+    "nome": "Isabela Martins",
+    "email": "isabela.responsavel@hotmail.com",
+    "telefone": "(11) 95678-9012",
+    "cpf": "159.753.486-00",
+    "data_nascimento": "2020-06-11",
+    "atividade_concluida": "sim",
+    "pontuacao": 95,
+    "conquistas": 5,
+    "tempo_uso_minutos": 35
+  },
+  {
+    "nome": "Gabriel Rodrigues",
+    "email": "gabriel.mae@gmail.com",
+    "telefone": "(11) 96789-0123",
+    "cpf": "753.159.246-00",
+    "data_nascimento": "2017-12-25",
+    "atividade_concluida": "nao",
+    "pontuacao": 30,
+    "conquistas": 0,
+    "tempo_uso_minutos": 5
+  },
+  {
+    "nome": "Laura Cardoso",
+    "email": "laura.pai@yahoo.com",
+    "telefone": "(11) 97890-1234",
+    "cpf": "246.813.579-00",
+    "data_nascimento": "2019-02-08",
+    "atividade_concluida": "sim",
+    "pontuacao": 70,
+    "conquistas": 2,
+    "tempo_uso_minutos": 18
+  },
+  {
+    "nome": "Miguel Barbosa",
+    "email": "miguel.responsavel@outlook.com",
+    "telefone": "(11) 98901-2345",
+    "cpf": "864.297.531-00",
+    "data_nascimento": "2018-10-14",
+    "atividade_concluida": "sim",
+    "pontuacao": 82,
+    "conquistas": 3,
+    "tempo_uso_minutos": 20
+  }
+]

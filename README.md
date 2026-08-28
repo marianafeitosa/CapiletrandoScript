@@ -79,3 +79,4 @@ saida_capiletrando/
 ├── dados_anonimizados.json
 └── relatorio_analise.txt
 ```
+
